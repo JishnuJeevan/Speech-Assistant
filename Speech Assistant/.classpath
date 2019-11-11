@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="lib" path="E:/Software/Eclipse IDE for Java/Eclipse Java Projects/Speech Assistant/resources/Free TTS 1.2.2/cmu_time_awb.jar"/>
+	<classpathentry kind="lib" path="E:/Software/Eclipse IDE for Java/Eclipse Java Projects/Speech Assistant/resources/Free TTS 1.2.2/cmu_us_kal.jar"/>
+	<classpathentry kind="lib" path="E:/Software/Eclipse IDE for Java/Eclipse Java Projects/Speech Assistant/resources/Free TTS 1.2.2/cmudict04.jar"/>
+	<classpathentry kind="lib" path="E:/Software/Eclipse IDE for Java/Eclipse Java Projects/Speech Assistant/resources/Free TTS 1.2.2/cmulex.jar"/>
+	<classpathentry kind="lib" path="E:/Software/Eclipse IDE for Java/Eclipse Java Projects/Speech Assistant/resources/Free TTS 1.2.2/cmutimelex.jar"/>
+	<classpathentry kind="lib" path="E:/Software/Eclipse IDE for Java/Eclipse Java Projects/Speech Assistant/resources/Free TTS 1.2.2/en_us.jar"/>
+	<classpathentry kind="lib" path="E:/Software/Eclipse IDE for Java/Eclipse Java Projects/Speech Assistant/resources/Free TTS 1.2.2/freetts.jar"/>
+	<classpathentry kind="lib" path="E:/Software/Eclipse IDE for Java/Eclipse Java Projects/Speech Assistant/resources/Free TTS 1.2.2/freetts-jsapi10.jar"/>
+	<classpathentry kind="lib" path="E:/Software/Eclipse IDE for Java/Eclipse Java Projects/Speech Assistant/resources/Free TTS 1.2.2/mbrola.jar"/>
+	<classpathentry kind="lib" path="E:/Software/Eclipse IDE for Java/Eclipse Java Projects/Speech Assistant/resources/Java Mail 1.4.5/mail.jar"/>
+	<classpathentry kind="lib" path="E:/Software/Eclipse IDE for Java/Eclipse Java Projects/Speech Assistant/resources/JDBC SQLite Connector/sqlite-jdbc-3.16.1.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
